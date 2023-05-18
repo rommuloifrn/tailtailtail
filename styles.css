@@ -17,4 +17,8 @@
         @apply bg-green-700;
     }
 
+    .btn-home {
+        @apply container bg-red-300 w-fit;
+    }
+
 }
